@@ -23,6 +23,16 @@ Amet.
 
 
 ## `<p>` - paragraf
+
+```bash
+<p>
+    Lorem ipsum dolor sit amet consectetur <br>
+    adipisicing elit. Architecto animi sit <br>
+    adipisci! Maiores iure non iste, <br>
+    harum aliquam pariatur vero.
+</p>
+```
+#### Result
 <p>
     Lorem ipsum dolor sit amet consectetur <br>
     adipisicing elit. Architecto animi sit <br>
