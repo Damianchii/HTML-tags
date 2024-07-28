@@ -11,11 +11,12 @@ Amet.
 </p>
 
 #### Result
-`Lorem ipsum             dolor sit
+<p>Lorem ipsum             dolor sit
 amet consectetur adipisicing 
 elit. Modi, fugit? Corporis in et 
 similique animi porro id autem voluptatum! 
-Amet.`
+Amet.
+</p>
 
 
 
