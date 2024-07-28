@@ -1,6 +1,6 @@
 
 ### `<pre>` - tekst w tym znaczniku bierze pod uwage znaki białe
-`bash
+```bash
 <p>
 <pre>
 Lorem ipsum             dolor sit
@@ -10,7 +10,7 @@ similique animi porro id autem voluptatum!
 Amet.
     </pre>
 </p>
-`
+```
 
 #### Result
 <pre>Lorem ipsum             dolor sit
