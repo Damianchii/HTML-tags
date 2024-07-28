@@ -101,7 +101,7 @@ Amet.
     <abbr title="Hyper Text Markup Language">HTML</abbr>
 </p>
 
-## `<ins>` - dodany tekst, `<del>`- sksowany `<sup>` - indeks górny, `<sub>` - indeks dolny, `<s>` - tylko przekreślony tekst
+## `<ins>` - dodany tekst, <br> `<del>`- sksowany <br> `<sup>` - indeks górny, <br> `<sub>` - indeks dolny, <br> `<s>` - tylko przekreślony tekst
 
 ```bash
 <p>Lorem <ins>insert</ins> dolor sit, amet consectetur
