@@ -30,13 +30,20 @@ Amet.
     harum aliquam pariatur vero.
 </p>
 
-### `<mark>` - wyróżnia element ze względu na kontekst 
+## `<mark>` - wyróżnia element ze względu na kontekst 
 ```bash
 <p>
     Lorem ipsum dolor sit amet, <mark>consectetur</mark>
     adipisicing elit. <mark>consectetur</mark> Necessitatibus, cumque.
 </p>
 ```
+#### Result
+
+<p>
+    Lorem ipsum dolor sit amet, <mark>consectetur</mark>
+    adipisicing elit. <mark>consectetur</mark> Necessitatibus, cumque.
+</p>
+
 
 <!-- strong - pogrubiony tekst, semantycznie ważny, wyróżniony -->
 <p>
