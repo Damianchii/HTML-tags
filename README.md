@@ -1,5 +1,5 @@
 
-### `<pre>` - tekst w tym znaczniku bierze pod uwage znaki białe
+## `<pre>` - tekst w tym znaczniku bierze pod uwage znaki białe
 ```bash
 <p>
 <pre>
@@ -22,7 +22,7 @@ Amet.
 
 
 
-### `<p>` - paragraf
+## `<p>` - paragraf
 <p>
     Lorem ipsum dolor sit amet consectetur <br>
     adipisicing elit. Architecto animi sit <br>
