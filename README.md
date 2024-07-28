@@ -22,7 +22,7 @@ Amet.
 
 
 
-## `<p>` - paragraf `<br>`- przechodzi do następnej lini
+## `<p>` - paragraf <br>`<br>`- przechodzi do następnej lini
 
 ```bash
 <p>
