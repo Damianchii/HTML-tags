@@ -133,7 +133,7 @@ Amet.
     screen, on paper, in speech, or on other media.
 </q>
 
-## `<blockquote>` - cytat, element blokowy, odsunięty id lewej krawędzi okna -->
+## `<blockquote>` - cytat, element blokowy, odsunięty id lewej krawędzi okna 
 ```bash
 <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/CSS">
     Cascading <small>Style Sheets </small>(CSS) is a stylesheet language used to describe the presentation of a document
@@ -149,7 +149,7 @@ Amet.
     rendered on screen, on paper, in speech, or on other media.
 </blockquote>
 
-## `<span>` fragment tekstu do dalszej pracy np z css -->
+## `<span>` fragment tekstu do dalszej pracy np z css 
 
 ```bash
 <p>
