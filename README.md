@@ -1,7 +1,7 @@
 
 ## `<pre>` - tekst w tym znaczniku bierze pod uwage znaki białe
 ```bash
-<p>
+<p style="color: red;">
 <pre>
 Lorem ipsum             dolor sit
 amet consectetur adipisicing 
