@@ -7,7 +7,7 @@ amet consectetur adipisicing
 elit. Modi, fugit? Corporis in et 
 similique animi porro id autem voluptatum! 
 Amet.
-    </pre>
+</pre>
 ```
 
 #### Result
